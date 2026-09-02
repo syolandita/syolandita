@@ -13,7 +13,7 @@
 - 🌱 **Version Control:** Git, GitHub
 
 ### 📌 Featured Projects
-- 🛒 [E-commerce Website Automation](link) — Web automation testing using Katalon Studio (Groovy)
+- 🛒 [E-commerce Website Automation](https://github.com/syolandita/E-commerce-Website-Automation-Katalon-) — Web automation testing using Katalon Studio (Groovy)
 - 🔗 [API Testing with Katalon](link) — REST API testing on a fake REST API endpoint
 - 🌲 [Portfolio: Testing with Cypress](link) — Automation testing using Cypress
 - 🎭 [Portfolio: Testing with Playwright](link) — Automation testing using Playwright
