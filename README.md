@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack
 - 🤖 **Automation Tools:** Katalon Studio, Cypress, Playwright, Selenium, UiPath
 - ⚙️ **RPA:** UiPath
-- 💻 **Languages:** Groovy, JavaScript
+- 💻 **Languages:** Groovy, JavaScript, Java
 - 🔌 **API Testing:** REST API Testing (Katalon)
 - 🌱 **Version Control:** Git, GitHub
 
