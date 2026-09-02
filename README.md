@@ -14,10 +14,10 @@
 
 ### 📌 Featured Projects
 - 🛒 [E-commerce Website Automation](https://github.com/syolandita/E-commerce-Website-Automation-Katalon-) — Web automation testing using Katalon Studio (Groovy)
-- 🔗 [API Testing with Katalon](link) — REST API testing on a fake REST API endpoint
-- 🌲 [Portfolio: Testing with Cypress](link) — Automation testing using Cypress
-- 🎭 [Portfolio: Testing with Playwright](link) — Automation testing using Playwright
-- 📊 [Sorting - Heroku App](link) — Test automation for a Heroku-hosted app
+- 🔗 [API Testing with Katalon](https://github.com/syolandita/API-Testing-Katalon-) — REST API testing on a fake REST API endpoint
+- 🌲 [Portfolio: Testing with Cypress](https://github.com/syolandita/Portfolio_TestingUsingCypress) — Automation testing using Cypress
+- 🎭 [Portfolio: Testing with Playwright](https://github.com/syolandita/Portfolio_TestingWithPlaywright) — Automation testing using Playwright
+- 📊 [Sorting - Heroku App](https://github.com/syolandita/Sorting-HerokuApp-Tabel) — Test automation for a Heroku-hosted app
 
 ### 📫 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/sofi-yolandita/
