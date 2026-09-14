@@ -2,8 +2,7 @@
 
 ## 🧪 QA Automation Engineer
 
-🚀 QA Automation Engineer with 3+ of experience in automation testing for WEB, Desktop and API applications.
-🎯 Passionate about building reliable test frameworks and catching bugs before they reach production.
+🚀 QA Automation Engineer with 3+ of experience in automation testing for WEB, Desktop and API applications. Passionate about building reliable test frameworks and catching bugs before they reach production.
 
 ### 🛠️ Tech Stack
 - 🤖 **Automation Tools:** Katalon Studio, Cypress, Playwright, Selenium, UiPath
