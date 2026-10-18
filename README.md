@@ -6,10 +6,12 @@
 
 ### 🛠️ Tech Stack
 - 🤖 **Automation Tools:** Katalon Studio, Cypress, Playwright, Selenium, UiPath
+- 🧠 **AI & Agentic Testing:** AI Agent, Playwright MCP
 - ⚙️ **RPA:** UiPath
 - 💻 **Languages:** Groovy, JavaScript, Java
 - 🔌 **API Testing:** REST API Testing (Katalon)
 - 🌱 **Version Control:** Git, GitHub
+
 
 ### 📌 Featured Projects
 - 🛒 [E-commerce Website Automation](https://github.com/syolandita/E-commerce-Website-Automation-Katalon-) — Web automation testing using Katalon Studio (Groovy)
